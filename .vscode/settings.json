@@ -1,0 +1,10 @@
+{
+    "eslint.validate": [
+    
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "plaintext": "pug"
+    }
+    
+}
